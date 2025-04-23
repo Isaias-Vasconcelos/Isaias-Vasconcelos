@@ -55,7 +55,7 @@
 ### 🌐 Conecte-se comigo
 
 - 📷 Instagram: [@_isaiasvasconcelos](https://instagram.com/_isaiasvasconcelos)
-- 💼 LinkedIn: [Isaías Vasconcelos](https://www.linkedin.com/in/isaías-vasconcelos)
+- 💼 LinkedIn: [Isaías Vasconcelos](https://br.linkedin.com/in/isa%C3%ADas-vasconcelos-58a045232?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ---
 
