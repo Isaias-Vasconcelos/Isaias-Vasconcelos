@@ -29,7 +29,7 @@
 ### 📌 Um pouco sobre mim
 
 - 👨‍💻 Comecei minha carreira com **PHP** e **Laravel**.
-- 🔥 Hoje trabalho com **.NET**, desenvolvendo aplicações backend robustas.
+- 🔥 Hoje trabalho com **.NET**, desenvolvendo aplicações FullStack.
 - 🔁 Conhecimento em **Kafka** para mensageria e sistemas distribuídos.
 - 🧱 Acredito nas boas práticas, por isso utilizo **Clean Architecture** nos meus projetos.
 - 🐧 Faço automações com **PHP** em ambientes **Linux**.
