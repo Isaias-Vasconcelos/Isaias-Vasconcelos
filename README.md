@@ -34,9 +34,10 @@
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasvasconcelos&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasvasconcelos&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaias-Vasconcelos&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-Vasconcelos&layout=compact&theme=transparent&hide_border=false" alt="Top Langs" />
 </div>
 
 ---
