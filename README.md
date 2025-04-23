@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Isaías Vasconcelos!</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiência criando soluções eficientes e escaláveis.
+  Desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiência criando soluções eficientes e criativas.
 </p>
 
 ---
@@ -28,8 +28,8 @@
 
 ### 📌 Um pouco sobre mim
 
-- 👨‍💻 Comecei minha carreira com **PHP** e **Laravel** onde passei 2 anos desenvolvendo novas soluções e realizando manutenção em sistemas já existentes.
-- 🔥 Hoje trabalho com **.NET**, desenvolvendo aplicações para Web para o uso interno. Utilizando ASP.NET WEB API no Backend e ASP.NET MVC no frontend com HTML,CSS e JS. 
+- 👨‍💻 Comecei minha carreira com **PHP** e **Laravel** , onde passei 2 anos desenvolvendo novas soluções e realizando manutenção em sistemas já existentes.
+- 🔥 Hoje trabalho com **.NET** há quase 1 ano, desenvolvendo aplicações para Web para o uso interno. Utilizando ASP.NET WEB API no Backend e ASP.NET MVC no frontend com HTML,CSS e JS. 
 - 🔁 Conhecimento em **Kafka** para mensageria e sistemas distribuídos.
 - 🧱 Acredito nas boas práticas, por isso utilizo **Clean Architecture** e **MVC** nos meus projetos.
 - 🐧 Trabalhei com automações em **PHP** em ambientes **Linux**.
