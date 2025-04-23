@@ -29,10 +29,15 @@
 ### 📌 Um pouco sobre mim
 
 - 👨‍💻 Comecei minha carreira com **PHP** e **Laravel** , onde passei 2 anos desenvolvendo novas soluções e realizando manutenção em sistemas já existentes.
-- 🔥 Hoje trabalho com **.NET** há quase 1 ano, desenvolvendo aplicações para Web para o uso interno. Utilizando ASP.NET WEB API no Backend e ASP.NET MVC no frontend com HTML,CSS e JS. 
+  
+- 🔥 Hoje trabalho com **.NET** há quase 1 ano, desenvolvendo aplicações para Web para o uso interno. Utilizando ASP.NET WEB API no Backend e ASP.NET MVC no frontend com HTML,CSS e JS.
+  
 - 🔁 Conhecimento em **Kafka** para mensageria e sistemas distribuídos.
+  
 - 🧱 Acredito nas boas práticas, por isso utilizo **Clean Architecture** e **MVC** nos meus projetos.
+  
 - 🐧 Trabalhei com automações em **PHP** em ambientes **Linux**.
+  
 - 🐳 Utilizo **Docker** para criar ambientes consistentes e reprodutíveis.
 
 ---
