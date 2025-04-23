@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Isaías Vasconcelos!</h1>
 
-<!--
-**Isaias-Vasconcelos/Isaias-Vasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiência criando soluções eficientes e escaláveis.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que domino
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📌 Um pouco sobre mim
+
+- 👨‍💻 Comecei minha carreira com **PHP** e **Laravel**.
+- 🔥 Hoje trabalho com **.NET**, desenvolvendo aplicações backend robustas.
+- 🔁 Conhecimento em **Kafka** para mensageria e sistemas distribuídos.
+- 🧱 Acredito nas boas práticas, por isso utilizo **Clean Architecture** nos meus projetos.
+- 🐧 Faço automações com **PHP** em ambientes **Linux**.
+- 🐳 Utilizo **Docker** para criar ambientes consistentes e reprodutíveis.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasvasconcelos&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasvasconcelos&layout=compact&theme=github_dark" />
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+- 📷 Instagram: [@_isaiasvasconcelos](https://instagram.com/_isaiasvasconcelos)
+- 💼 LinkedIn: [Isaías Vasconcelos](https://www.linkedin.com/in/isaías-vasconcelos)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Se curtir algum repositório, deixa uma estrela e vamos trocar uma ideia! 😄
