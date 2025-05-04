@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, pode me chamar de Isaías!</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiência criando soluções eficientes e criativas.
+  Desenvolvedor apaixonado por tecnologia, com mais de 3 anos de experiência criando soluções eficientes e criativas.
 </p>
 
 ---
