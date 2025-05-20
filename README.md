@@ -32,7 +32,7 @@
 
 Atualmente, trabalho com .NET, desenvolvendo aplicações web de uso interno, utilizando ASP.NET Web API no backend e ASP.NET MVC no frontend, com HTML, CSS, JavaScript e MySQL como banco de dados.
 
-Sou adepto de boas práticas de desenvolvimento, aplicando Clean Architecture e MVC na estruturação dos meus projetos, o que garante maior manutenibilidade e escalabilidade. Também faço uso de Docker para criar ambientes consistentes, padronizados e fáceis de replicar, tanto para desenvolvimento quanto para produção.
+Sou adepto de boas práticas de desenvolvimento, aplicando Clean Architecture e MVC na estruturação dos meus projetos, o que garante maior manutenibilidade e escalabilidade. Também faço uso de Docker para criar ambientes consistentes, padronizados e fáceis de replicar, tanto para desenvolvimento quanto para produção. 
 
 ---
 
